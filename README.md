@@ -6,7 +6,7 @@ Coenraets](https://github.com/ccoenraets/employee-directory-react-native).
 ## How to run the app
 
 You will need the React Native command line tools to run the sample app.
-Install dependencies with `yarn`, then run the app with `react-native run-ios`.
+Install dependencies with `yarn`, then run the app with `npx react-native run-ios`.
 
 ## How to run the tests
 
